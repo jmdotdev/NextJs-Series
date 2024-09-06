@@ -1,5 +1,3 @@
-Here's a README for a Todo app created with Next.js, TypeScript, and Tailwind CSS:
-
 ---
 
 # Todo App
