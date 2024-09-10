@@ -11,7 +11,6 @@ A simple Todo application built with Next.js, TypeScript, and Tailwind CSS.
 
 A simple Todo application built with Next.js, TypeScript, and Tailwind CSS. This app allows users to add, edit, and delete tasks to keep track of their daily activities.
 
-
 ## Tech Stack
 
 - **Next.js**: A React framework for production that provides server-side rendering and static site generation.
